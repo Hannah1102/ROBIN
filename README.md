@@ -1,8 +1,23 @@
-# ROBIN: Robust and Invisible Watermarks for Diffusion Models with Adversarial Optimization
+# ROBIN & ROBIN++
+
+This repository provides the official implementations of **ROBIN** and its extended journal version **ROBIN++**.
+
+## News
+
+- **Aug. 2026:** ROBIN++ has been accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*.
+- **2024:** ROBIN was accepted by *NeurIPS 2024*.
+
+## Code Status
+
+> **Note:** The currently released code corresponds to **ROBIN (NeurIPS 2024)**.  
+> The implementation of **ROBIN++ (TPAMI 2026)** is currently being organized and will be released in this repository soon.
+
+| Method | Publication | Code |
+| --- | --- | --- |
+| ROBIN++ | IEEE TPAMI 2026 | 🚧 Coming soon |
+| ROBIN | NeurIPS 2024 | ✅ Available |
 
 <img src=imgs/teaser_ROBIN.png  width="90%" height="60%">
-
-This code is the pytorch implementation of [ROBIN Watermarks](https://arxiv.org/abs/2411.03862).
 
 If you have any questions, feel free to email <hyhuang@whu.edu.cn>.
 
